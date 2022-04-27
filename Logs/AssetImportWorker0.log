@@ -191,3 +191,9 @@ Received Import Request.
   path: Assets/2000px-Skull_and_crossbones_vector.svg.png
   artifactKey: Guid(9d95f4d29755da84aa29d53a8949e357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/2000px-Skull_and_crossbones_vector.svg.png using Guid(9d95f4d29755da84aa29d53a8949e357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb98f6bca7fff0b57ec9bbe43b1ea4c') in 0.223727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.534395 seconds.
+  path: Assets/Splash.png
+  artifactKey: Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Splash.png using Guid(4841752ed7676af4193c80dfb1b479a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f4c3af83176f9570c897e27810e1ee') in 0.009458 seconds 
